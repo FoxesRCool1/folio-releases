@@ -1,21 +1,21 @@
-# Folio releases
+# FoxQuill releases
 
-Downloads for [Folio](https://github.com/FoxesRCool1/folio-releases/releases),
-a calm place to write a novel. This repository holds the installers only. The
-source is not here.
+Downloads for [FoxQuill](https://foxquill.studio), a calm place to write a
+novel. This repository holds the installers only. The source is not here.
 
 ## Download
 
-Every build is on the [Releases page](https://github.com/FoxesRCool1/folio-releases/releases).
+The newest build is on the [Releases page](https://github.com/FoxesRCool1/folio-releases/releases/latest).
 
 | Platform | File |
 |---|---|
-| Windows | `Folio-Setup-<version>.exe` |
-| Linux | `Folio-<version>.AppImage` |
+| Windows | `FoxQuill-Setup-<version>.exe` |
+| Linux | `FoxQuill-<version>.AppImage` |
 
 macOS is not built yet.
 
-Folio is in **beta**. Releases are marked as pre-releases while that is true.
+FoxQuill has a free trial of seven days. Pricing is on
+[foxquill.studio](https://foxquill.studio).
 
 ## Installing
 
@@ -26,16 +26,17 @@ installer is not signed with a paid certificate yet. Choose **More info**, then
 **Linux.** Make the AppImage executable and run it:
 
 ```
-chmod +x Folio-<version>.AppImage
-./Folio-<version>.AppImage
+chmod +x FoxQuill-<version>.AppImage
+./FoxQuill-<version>.AppImage
 ```
 
 ## Updates
 
-Folio checks this repository on launch and offers an update when there is one.
-You do not need to come back here.
+FoxQuill checks this repository on launch and offers an update when there is
+one. You do not need to come back here.
 
 ## Reporting a problem
 
-Open an issue on this repository. Say what you did, what happened, and which
-version and platform you are on. Do not paste your writing into an issue.
+Open an issue on this repository, or write to foxquillstudio@gmail.com. Say
+what you did, what happened, and which version and platform you are on. Do not
+paste your writing into an issue.
